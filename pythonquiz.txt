@@ -1,0 +1,138 @@
+What is the correct way to define a variable in Python?
+a) variable = value
+b) value = variable
+c) var: value
+d) define variable = value
+a
+
+Which data type is used to represent a sequence of characters in Python?
+a) int
+b) float
+c) str
+d) bool
+c
+
+How do you comment a single line in Python?
+a) // This is a comment
+b) # This is a comment
+c) /* This is a comment */
+d) ; This is a comment
+b
+
+Which operator is used for integer division in Python?
+a) /
+b) //
+c) %
+d) **
+b
+
+How do you create an if-else statement in Python?
+a) if condition: statement1
+b) if condition: statement1 else: statement2
+c) if condition then statement1
+d) if condition { statement1; }
+b
+
+What is the purpose of a while loop in Python?
+a) To execute a block of code repeatedly until a condition becomes false.
+b) To execute a block of code a fixed number of times.
+c) To create functions.
+d) To define variables.
+a
+
+How do you define a function in Python?
+a) function name(): statements
+b) def name(): statements
+c) create function name(): statements
+d) function name(arguments): statements
+b
+
+What is the purpose of the return statement in a Python function?
+a) To define the function name.
+b) To end the function execution.
+c) To return a value from the function.
+d) To take input arguments for the function.
+c
+
+How do you import a module named mymodule in Python?
+a) import mymodule
+b) include mymodule
+c) use mymodule
+d) load mymodule
+a
+
+How do you access the first element of a list named my_list in Python?
+a) my_list[0]
+b) my_list.first()
+c) my_list(0)
+d) my_list[1]
+a
+
+How do you get input from the user in Python?
+a) input()
+b) get_input()
+c) read_input()
+d) input_value()
+a
+
+How do you print a message to the console in Python?
+a) print()
+b) display()
+c) show()
+d) output()
+a
+
+What is the purpose of a try-except block in Python?
+a) To handle errors that may occur during program execution.
+b) To define functions.
+c) To create loops.
+d) To import modules.
+a
+
+What is the difference between a list and a tuple in Python?
+a) Lists are mutable, while tuples are immutable.
+b) Lists are immutable, while tuples are mutable.
+c) Both lists and tuples are mutable.
+d) Both lists and tuples are immutable.
+a
+
+How do you create a set in Python?
+a) using curly braces
+b) using square brackets []
+c) using parentheses ()
+d) using the set() function
+a
+
+What is the purpose of a dictionary in Python?
+a) To store a sequence of elements.
+b) To store key-value pairs.
+c) To store a set of unique elements.
+d) To define functions.
+b
+
+What is a class in Python?
+a) A blueprint for creating objects.
+b) A collection of functions.
+c) A data type.
+d) A variable.
+a
+
+What is a module in Python?
+a) A collection of functions and classes.
+b) A data type.
+c) A variable.
+d) An object.
+a
+
+What is a package in Python?
+a) A collection of modules.
+b) A data type.
+c) A variable.
+d) An object.
+a
+
+How do you import the math module in Python?
+a) import math
+b) include math
+c) use math
+d) load math

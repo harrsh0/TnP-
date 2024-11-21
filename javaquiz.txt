@@ -1,0 +1,132 @@
+What is the default data type for integer literals in Java?
+a) int
+b) long
+c) short
+d) byte
+a
+
+Which data type is used to represent a single character in Java?
+a) char
+b) string
+c) byte
+d) boolean
+a
+
+How do you declare a constant variable in Java?
+a) final variable_name = value;
+b) constant variable_name = value;
+c) const variable_name = value;
+d) define variable_name = value;
+a
+
+Which operator is used for logical OR in Java?
+a) &&
+b) ||
+c) !
+d) ^
+b
+
+How do you increment the value of a variable x by 1 in Java?
+a) x++
+b) x--
+c) ++x
+d) All of the above
+d
+
+How do you create an if-else statement in Java?
+a) if (condition) { statement1; } else { statement2; }
+b) if condition then statement1 else statement2
+c) if condition: statement1 else: statement2
+d) if (condition) statement1 else statement2
+a
+
+What is the purpose of the break statement in a loop?
+a) Exits the loop
+b) Continues to the next iteration
+c) Declares a new variable
+d) Defines a function
+a
+
+What is the purpose of the continue statement in a loop?
+a) Exits the loop
+b) Continues to the next iteration
+c) Declares a new variable
+d) Defines a function
+b
+
+How do you define a function in Java?
+a) function name() { statements; }
+b) def name(): statements
+c) void name() { statements; }
+d) function name(arguments) { statements; }
+c
+
+What is the purpose of the return statement in a function?
+a) Exits the function
+b) Returns a value from the function
+c) Declares a new variable
+d) Defines a function
+b
+
+How do you declare an array in Java?
+a) array name[size];
+b) name array[size];
+c) size array name;
+d) array[size] name;
+a
+
+What is the index of the first element in a Java array?
+a) 0
+b) 1
+c) -1
+d) The size of the array
+a
+
+How do you access the third element of an array named arr in Java?
+a) arr[3]
+b) arr(3)
+c) arr.3
+d) *arr[3]
+a
+
+What is a class in Java?
+a) A blueprint for creating objects
+b) A data type
+c) A function
+d) A constant value
+a
+
+How do you define a class in Java?
+a) class name { };
+b) struct name { };
+c) define name { };
+d) class name() { };
+a
+
+What is an object in Java?
+a) An instance of a class
+b) A data type
+c) A function
+d) A constant value
+a
+
+How do you create an object of a class in Java?
+a) class_name object_name;
+b) object_name = class_name;
+c) new class_name;
+d) create object_name
+a
+
+What is the purpose of the this keyword in Java?
+a) Points to the current object
+b) Points to the base class
+c) Points to the derived class
+d) Points to the function
+a
+
+Which keyword is used to inherit properties from a base class in Java?
+a) extends
+b) inherits
+c) public
+d) implements
+a

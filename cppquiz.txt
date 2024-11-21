@@ -1,0 +1,139 @@
+What is the correct syntax to declare a variable in C++?
+a) variable = value
+b) value = variable
+c) var: value
+d) datatype variable_name;
+d
+
+Which data type is used to represent whole numbers in C++?
+a) int
+b) float
+c) char
+d) string
+a
+
+What is the difference between int and long in C++?
+a) int is used for smaller integers, long is used for larger integers
+b) int is used for larger integers, long is used for smaller integers
+c) There is no difference between int and long
+d) int is used for floating-point numbers, long is used for integers
+a
+
+How do you declare a constant variable in C++?
+a) const variable_name = value;
+b) variable_name const = value;
+c) constant variable_name = value;
+d) define variable_name = value;
+a
+
+Which operator is used for logical AND in C++?
+a) &&
+b) ||
+c) !
+d) ^
+a
+
+How do you increment the value of a variable x by 1 in C++?
+a) x++
+b) x--
+c) ++x
+d) All of the above
+d
+
+How do you create an if-else statement in C++?
+a) if (condition) { statement1; } else { statement2; }
+b) if condition then statement1 else statement2
+c) if condition: statement1 else: statement2
+d) if (condition) statement1 else statement2
+a
+
+What is the purpose of the break statement in a loop?
+a) Exits the loop
+b) Continues to the next iteration
+c) Declares a new variable
+d) Defines a function
+a
+
+What is the purpose of the continue statement in a loop?
+a) Exits the loop
+b) Continues to the next iteration
+c) Declares a new variable
+d) Defines a function
+b
+
+How do you define a function in C++?
+a) function name() { statements; }
+b) def name(): statements
+c) void name() { statements; }
+d) function name(arguments) { statements; }
+c
+
+What is the purpose of the return statement in a function?
+a) Exits the function
+b) Returns a value from the function
+c) Declares a new variable
+d) Defines a function
+b
+
+What is a pointer in C++?
+a) A variable that stores the address of another variable
+b) A constant value
+c) A data type
+d) A function
+a
+
+How do you dereference a pointer in C++?
+a) Using the * operator
+b) Using the & operator
+c) Using the -> operator
+d) Using the [] operator
+a
+
+How do you declare an array in C++?
+a) array name[size];
+b) name array[size];
+c) size array name;
+d) array[size] name;
+a
+
+What is the index of the first element in a C++ array?
+a) 0
+b) 1
+c) -1
+d) The size of the array
+a
+
+How do you access the third element of an array named arr in C++?
+a) arr[3]
+b) arr(3)
+c) arr.3
+d) *arr[3]
+a
+
+What is a string in C++?
+a) An array of characters
+b) A data type
+c) A function
+d) A constant value
+a
+
+What is a class in C++?
+a) A blueprint for creating objects
+b) A data type
+c) A function
+d) A constant value
+a
+
+How do you define a class in C++?
+a) class name { };
+b) struct name { };
+c) define name { };
+d) class name() { };
+a
+
+What is an object in C++?
+a) An instance of a class
+b) A data type
+c) A function
+d) A constant value
+a
